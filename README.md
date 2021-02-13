@@ -1,5 +1,5 @@
 # XSS Vulnerability
-[![Python3.x](https://img.shields.io/badge/python-3.x-FADA5E.svg?logo=python)](https://www.python.org/) [![PEP8](https://img.shields.io/badge/code%20style-pep8-red.svg)](https://www.python.org/dev/peps/pep-0008/)
+[![Python3.x](https://img.shields.io/badge/python-3.x-FADA5E.svg?logo=python)](https://www.python.org/) [![PEP8](https://img.shields.io/badge/code%20style-pep8-red.svg)](https://www.python.org/dev/peps/pep-0008/) [![JavaScript](https://img.shields.io/badge/JavaScript-FADA5E.svg?logo=JavaScript)](https://www.javascript.com/)
 
 * This tool is for test Cross Site Scripting (XSS) Vulnerability and educational purposes only.
 
