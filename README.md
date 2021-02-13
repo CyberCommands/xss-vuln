@@ -3,7 +3,7 @@
 
 * This tool is for test Cross Site Scripting (XSS) Vulnerability and educational purposes only.
 
-**Do not use it for illegal purposes!**
+  **Do not use it for illegal purposes!**
 
 ## Installation
 You'll need to install the [PhantomJS](https://github.com/ariya/phantomjs).
